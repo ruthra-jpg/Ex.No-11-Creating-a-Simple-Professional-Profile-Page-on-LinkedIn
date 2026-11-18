@@ -35,6 +35,9 @@ The screen below shows a sample completed LinkedIn profile page, illustrating ho
 <img width="572" height="439" alt="image" src="https://github.com/user-attachments/assets/be7d299c-31c9-49fc-9f8f-63853af11bd6" />
 ## OUTPUT
 A simple, professional LinkedIn profile page is created, containing a profile photo, background banner, headline, About summary, Education, Experience, and Skills sections, and is ready to be shared through a public profile link.
+
+<img width="1536" height="1744" alt="image" src="https://github.com/user-attachments/assets/97e0f0c2-d258-4561-8c97-6b171760d32e" />
+
 ## RESULT
 Thus, a simple and professional profile page was successfully created on LinkedIn, with all essential sections filled in correctly and the profile made ready for sharing.
 ## CONCLUSION
